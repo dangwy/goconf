@@ -18,4 +18,4 @@ get conf or ini file infomation
 	cdnsaddr=rtsp://10.10.10.10:8099
 
 ##about
-	有问题，请联系：dangwy@gmail.com
+	有问题，请联系：dang_wenyun@163.com
